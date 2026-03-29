@@ -7,12 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Zeeshan Ahmad Arfeen is an Assistant Professor in the Department of Electrical Power Engineering at The Islamia University of Bahawalpur, Pakistan.
-
-He earned his doctorate from Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia. He is a Senior Member of IEEE and is affiliated with several professional organizations, including the IEEE Power and Energy Society (PES), IEEEP Pakistan, and The Institution of Engineers Pakistan (IEP).
-
-Dr. Arfeen is the author and co-author of more than 60 indexed international journal articles, along with conference papers and book chapters. He has also reviewed more than 300 papers for ISI, Scopus, and conference-indexed journals.
-
+DZeeshan Ahmad Arfeen is an Assistant Professor at “The Islamia University of Bahawalpur”,
+Pakistan in the Electrical Power Engineering Department. He doctorate from University
+Technology Malaysia (UTM) Skudai Johor Bahru, Johor, Malaysia. He is a senior member of
+the IEEE organization NJ, USA, member of IEEE Power and Energy Society (PES), a member
+of IEEE Pakistan, and a member of The Institution of Engineers Pakistan (IEP). Further, he is
+also a life member of the Pakistan Engineering Council. Arfeen is an Author/Coauthor of 60+
+high indexed international Journals with several conferences and book chapters and a potential
+reviewer of more than 300+ papers of ISI, Scopus, and Conference proceeding Journals. Arfeen
+was awarded a Partial doctoral scholarship from Higher Education Commission (HEC)
+Pakistan. He also got an International doctoral fellowship (IDF) and a UTM Young Scholarship
+Grant from the University of Technology Malaysia (UTM). His one paper is the most
+downloaded paper in 2019 and 2020 and the top 10 cited papers in the year 2020 by Wiley
+publisher. He is invited as a guest speaker at many prestigious international conferences. His
+research interests include electrical transportation, microgrids, energy management systems,
+and sustainable energy.
 His research interests include:
 
 - Electrical Transportation
@@ -22,16 +31,12 @@ His research interests include:
 
 ## Professional Memberships
 
-- IEEE Senior Member
-- IEEE Power and Energy Society (PES)
-- IEEEP Pakistan
-- The Institution of Engineers Pakistan (IEP)
 - Pakistan Engineering Council (PEC)
-- International Solar Energy Society (ISES)
-
-## Academic Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=pjnv9wEAAAAJ)
-- [ORCID](https://orcid.org/0000-0002-7359-2743)
-- [ResearchGate](https://www.researchgate.net/profile/Zeeshan-Arfeen)
-- [University Profile](https://www.iub.edu.pk/author/zeeshan.arfeen)
+- IEEE Senior Member NJ - USA
+- IEEE –Power and Energy Society (PES)
+- IEEEP- Pakistan
+- IEP - The Institution of Engineers, Pakistan (IEP)
+- Soft Computing Research Society-New Delhi – India
+- Khwarizmi Science Society; Lahore; Pakistan
+- International Association of Engineers
+- International Solar Energy Society (ISES) - Germany
