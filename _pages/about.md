@@ -7,36 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-DZeeshan Ahmad Arfeen is an Assistant Professor at “The Islamia University of Bahawalpur”,
-Pakistan in the Electrical Power Engineering Department. He doctorate from University
-Technology Malaysia (UTM) Skudai Johor Bahru, Johor, Malaysia. He is a senior member of
-the IEEE organization NJ, USA, member of IEEE Power and Energy Society (PES), a member
-of IEEE Pakistan, and a member of The Institution of Engineers Pakistan (IEP). Further, he is
-also a life member of the Pakistan Engineering Council. Arfeen is an Author/Coauthor of 60+
-high indexed international Journals with several conferences and book chapters and a potential
-reviewer of more than 300+ papers of ISI, Scopus, and Conference proceeding Journals. Arfeen
-was awarded a Partial doctoral scholarship from Higher Education Commission (HEC)
-Pakistan. He also got an International doctoral fellowship (IDF) and a UTM Young Scholarship
-Grant from the University of Technology Malaysia (UTM). His one paper is the most
-downloaded paper in 2019 and 2020 and the top 10 cited papers in the year 2020 by Wiley
-publisher. He is invited as a guest speaker at many prestigious international conferences. His
-research interests include electrical transportation, microgrids, energy management systems,
-and sustainable energy.
-His research interests include:
+Dr. Zeeshan Ahmad Arfeen is an Assistant Professor in the Department of Electrical Power Engineering at The Islamia University of Bahawalpur, Pakistan. He obtained his doctorate from Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia.
 
-- Electrical Transportation
-- Microgrids
-- Energy Management Systems
-- Sustainable Energy
+He is a Senior Member of IEEE (USA) and a member of the IEEE Power and Energy Society (PES), IEEE Pakistan, and The Institution of Engineers Pakistan (IEP). He is also a life member of the Pakistan Engineering Council (PEC).
+
+Dr. Arfeen is the author and co-author of more than 60 high-impact international journal publications, along with several conference papers and book chapters. He has served as a reviewer for more than 300 papers in ISI-indexed, Scopus-indexed, and conference proceedings journals.
+
+He was awarded a partial doctoral scholarship from the Higher Education Commission (HEC), Pakistan. He also received an International Doctoral Fellowship (IDF) and a UTM Young Scholarship Grant from Universiti Teknologi Malaysia. One of his research papers was among the most downloaded in 2019 and 2020 and ranked among the top 10 most cited papers in 2020 by Wiley.
+
+He is frequently invited as a guest speaker at international conferences. His research focuses on modern power and energy systems, with particular emphasis on:
+
+- Electrical Transportation  
+- Microgrids  
+- Energy Management Systems  
+- Sustainable Energy  
 
 ## Professional Memberships
 
-- Pakistan Engineering Council (PEC)
-- IEEE Senior Member NJ - USA
-- IEEE –Power and Energy Society (PES)
-- IEEEP- Pakistan
-- IEP - The Institution of Engineers, Pakistan (IEP)
-- Soft Computing Research Society-New Delhi – India
-- Khwarizmi Science Society; Lahore; Pakistan
-- International Association of Engineers
-- International Solar Energy Society (ISES) - Germany
+- Pakistan Engineering Council (PEC)  
+- IEEE Senior Member (USA)  
+- IEEE Power and Energy Society (PES)  
+- IEEEP – Pakistan  
+- The Institution of Engineers Pakistan (IEP)  
+- Soft Computing Research Society – India  
+- Khwarizmi Science Society – Pakistan  
+- International Association of Engineers  
+- International Solar Energy Society (ISES) – Germany  
