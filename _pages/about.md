@@ -33,3 +33,21 @@ He is frequently invited as a guest speaker at international conferences. His re
 - Khwarizmi Science Society – Pakistan  
 - International Association of Engineers  
 - International Solar Energy Society (ISES) – Germany  
+
+## Education
+
+- **Ph.D. in Electrical Engineering**  
+  Universiti Teknologi Malaysia (UTM), Malaysia  
+  2017 – 2021  
+
+- **M.Engg Electrical Engineering**  
+  N.E.D University, Karachi, Pakistan  
+
+- **B.E Electrical Engineering**  
+  N.E.D University, Karachi, Pakistan  
+
+- **H.S.C (Pre-Engineering)**  
+  Govt. Delhi College  
+
+- **S.S.C (Science)**  
+  St. Jude’s High School  
