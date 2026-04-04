@@ -5,7 +5,7 @@ site_theme               : "default"
 title                    : "Dr. Zeeshan Ahmad Arfeen"
 title_separator          : "-"
 name                     : "Dr. Zeeshan Ahmad Arfeen"
-description              : "Academic portfolio of Dr. Zeeshan Ahmad Arfeen"
+description              : "Assistant Professor | Electrical Power Engineering | Microgrids | Energy Systems"
 
 url                      : "https://zeeshanahmadarfeen.github.io"
 baseurl                  : ""
@@ -15,61 +15,19 @@ repository               : "ZeeshanAhmadArfeen/ZeeshanAhmadArfeen.github.io"
 author:
   avatar           : "profile.png"
   name             : "Dr. Zeeshan Ahmad Arfeen"
-  pronouns         :
   bio              : "Assistant Professor, Electrical Power Engineering"
   location         : "Bahawalpur, Pakistan"
   employer         : "The Islamia University of Bahawalpur"
   uri              : "https://www.iub.edu.pk/author/zeeshan.arfeen"
   email            : "zeeshan.arfeen@iub.edu.pk"
 
-  # Academic websites
-  academia         :
-  arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pjnv9wEAAAAJ"
-  inspire-hep      :
-  impactstory      :
-  orcid            : "https://orcid.org/0000-0002-7359-2743"
-  semantic         :
-  ssrn             :
-  pubmed           :
-  researchgate     : "https://www.researchgate.net/profile/Zeeshan-Arfeen"
-  scopus           : "57209782654"
-  zotero           :
+  
+  # Extra Links from PDF
+  uri2             : "https://www.webofscience.com/wos/author/record/AAD-4452-2019"
+  uri3             : "https://publons.com/researcher/2956586/zeeshan-ahmad-arfeen/"
 
-  # Repositories and software development
-  bitbucket        :
-  codepen          :
-  dribbble         :
+  # Social
   github           : "ZeeshanAhmadArfeen"
-  kaggle           :
-  stackoverflow    :
-
-  # Social media
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
 
 publication_category:
   books:
@@ -86,53 +44,7 @@ future                   : true
 read_more                : "disabled"
 talkmap_link             : false
 
-comments:
-  provider               :
-  disqus:
-    shortname            :
-  discourse:
-    server               :
-  facebook:
-    appid                :
-    num_posts            :
-    colorscheme          :
-
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601"
-
-atom_feed:
-  hide                   : false
-  path                   :
-
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-
-og_image                 :
-og_description           :
-
+# Social links (top structured data)
 social:
   type                   : "Person"
   name                   : "Dr. Zeeshan Ahmad Arfeen"
@@ -142,67 +54,7 @@ social:
     - "https://www.researchgate.net/profile/Zeeshan-Arfeen"
     - "https://www.iub.edu.pk/author/zeeshan.arfeen"
 
-analytics:
-  provider               : false
-  google:
-    tracking_id          :
-
-include:
-  - .htaccess
-  - _pages
-  - files
-
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - local
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-
-keep_files:
-  - .git
-  - .svn
-
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
+# Collections (IMPORTANT)
 collections:
   teaching:
     output: true
@@ -210,24 +62,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
 
+# Defaults
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   - scope:
       path: ""
       type: pages
@@ -236,68 +76,21 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  - scope:
-      path: ""
       type: publications
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
-permalink: /:categories/:title/
-timezone: Etc/UTC
-
+# Plugins
 plugins:
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+# Markdown
+markdown: kramdown
+highlighter: rouge
 
-category_archive:
-  type: liquid
-  path: /categories/
-
-tag_archive:
-  type: liquid
-  path: /tags/
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# Permalink
+permalink: /:categories/:title/
