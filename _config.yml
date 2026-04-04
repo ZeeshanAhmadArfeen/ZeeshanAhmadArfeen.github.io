@@ -1,6 +1,5 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
 
 title                    : "Dr. Zeeshan Ahmad Arfeen"
 title_separator          : "-"
