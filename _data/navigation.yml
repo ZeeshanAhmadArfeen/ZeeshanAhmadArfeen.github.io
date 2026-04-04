@@ -1,12 +1,13 @@
 main:
-  - title: "About"
-    url: /
 
   - title: "Publications"
     url: /publications/
 
   - title: "Talks & Invitations"
     url: /talks/    
+
+ - title: "Review Service"
+    url: /review-service/
 
   - title: "Teaching"
     url: /teaching/    
