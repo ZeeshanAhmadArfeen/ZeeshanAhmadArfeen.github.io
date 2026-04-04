@@ -1,19 +1,18 @@
 main:
-
   - title: "Publications"
     url: /publications/
 
   - title: "Talks & Invitations"
-    url: /talks/    
+    url: /talks/
 
- - title: "Review Service"
+  - title: "Review Service"
     url: /review-service/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Awards & Honors"
     url: /portfolio/
-    
+
   - title: "CV"
     url: /cv/
