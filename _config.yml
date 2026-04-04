@@ -93,3 +93,5 @@ highlighter: rouge
 
 # Permalink
 permalink: /:categories/:title/
+include:
+  - _pages
