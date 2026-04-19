@@ -1,5 +1,4 @@
 main:
-
   - title: "Publications"
     url: /publications/
 
@@ -9,7 +8,8 @@ main:
   - title: "Review Service"
     url: /review-service/
 
-  - title: "Professional Experiences "
+  - title: "Professional Experiences"
     url: /experiences/
 
- 
+  - title: "Arfeen Research Center"
+    url: /research-center/
