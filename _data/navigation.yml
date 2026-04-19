@@ -11,11 +11,8 @@ main:
   - title: "Review Service"
     url: /review-service/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Professional Experiences "
+    url: /experiences/
 
   - title: "Awards & Honors"
     url: /portfolio/
-
-  - title: "CV"
-    url: /cv/
