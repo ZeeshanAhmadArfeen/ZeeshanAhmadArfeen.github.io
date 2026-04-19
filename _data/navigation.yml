@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /
 
   - title: "Publications"
     url: /publications/
@@ -14,5 +12,4 @@ main:
   - title: "Professional Experiences "
     url: /experiences/
 
-  - title: "Awards & Honors"
-    url: /portfolio/
+ 
