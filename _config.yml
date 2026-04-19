@@ -17,16 +17,23 @@ author:
   bio              : "Assistant Professor, Electrical Power Engineering"
   location         : "Bahawalpur, Pakistan"
   employer         : "The Islamia University of Bahawalpur"
+  office           : "The Islamia University of Bahawalpur, BJ Campus, Faculty of Engineering & Technology, Department of Electrical Engineering, Bahawalpur, Pakistan"
   uri              : "https://www.iub.edu.pk/author/zeeshan.arfeen"
-  email            : "zeeshan.arfeen@iub.edu.pk"
+  university_url   : "http://www.iub.edu.pk"
 
-  
-  # Extra Links from PDF
+  email            : "zeeshan.arfeen@iub.edu.pk"
+  email2           : "zarfeen.my@ieee.org"
+  email3           : "zaarfeen@gmail.com"
+
+  phone            : "+92-62-9255474"
+  fax              : "+92-62-9255478"
+
+  orcid            : "https://orcid.org/0000-0002-7359-2743"
+  researchgate     : "https://www.researchgate.net/profile/Zeeshan-Arfeen"
+
   uri2             : "https://www.webofscience.com/wos/author/record/AAD-4452-2019"
   uri3             : "https://publons.com/researcher/2956586/zeeshan-ahmad-arfeen/"
-
-  # Social
-  github           : "ZeeshanAhmadArfeen"
+  uri4             : "https://www.scopus.com/authid/detail.uri?authorId=57209782654"
 
 publication_category:
   books:
@@ -48,10 +55,12 @@ social:
   type                   : "Person"
   name                   : "Dr. Zeeshan Ahmad Arfeen"
   links:
-    - "https://scholar.google.com/citations?hl=en&user=pjnv9wEAAAAJ"
     - "https://orcid.org/0000-0002-7359-2743"
     - "https://www.researchgate.net/profile/Zeeshan-Arfeen"
     - "https://www.iub.edu.pk/author/zeeshan.arfeen"
+    - "https://www.webofscience.com/wos/author/record/AAD-4452-2019"
+    - "https://publons.com/researcher/2956586/zeeshan-ahmad-arfeen/"
+    - "https://www.scopus.com/authid/detail.uri?authorId=57209782654"
 
 # Collections (IMPORTANT)
 collections:
