@@ -5,13 +5,23 @@ permalink: /research-center/
 author_profile: true
 ---
 
-# Arfeen Research Lab
+
 
 ![Arfeen Research Lab Logo](/images/lab-logo.png){: style="max-width:220px; display:block; margin-bottom:20px;" }
 
 Welcome to the Arfeen Research Lab.
 
-**We welcome students, researchers, and collaborators interested in advanced research and innovation.**
+<p style="color:red; font-size:22px; font-weight:bold; animation: blink 1s infinite;">
+We welcome students, researchers, and collaborators interested in advanced research and innovation.
+</p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.4; }
+  100% { opacity: 1; }
+}
+</style>
 
 ## 3rd International Tinker Innovation & Entrepreneurship Challenge (I-TIEC 2026)
 
