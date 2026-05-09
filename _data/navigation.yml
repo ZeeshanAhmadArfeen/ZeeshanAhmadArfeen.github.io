@@ -11,5 +11,5 @@ main:
   - title: "Professional Experiences"
     url: /experiences/
 
-  - title: "Arfeen Research Center"
+  - title: '<img src="/images/lab-logo.png" style="height:24px; vertical-align:middle; margin-right:8px;"> Arfeen Research Lab'
     url: /research-center/
