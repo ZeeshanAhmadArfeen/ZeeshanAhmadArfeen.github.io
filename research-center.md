@@ -61,9 +61,7 @@ Useful links:
    [Watch Video](https://youtu.be/hbKhyzw2QDk)
 
 
-## Completed Student Projects – ARFEEN
-
-Projects completed---Arfeen
+## Projects completed---Arfeen
 
 1. **Internet of Things (IoT) Based Groundwater Monitoring System**  
    NED Karachi
