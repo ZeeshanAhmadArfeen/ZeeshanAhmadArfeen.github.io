@@ -12,8 +12,7 @@ author_profile: true
 Welcome to the Arfeen Research Lab.
 
 <p style="color:#4FC3F7; font-size:22px; font-weight:bold; animation: blink 1s infinite;">
-
-We welcome students, researchers, and collaborators interested in advanced research and innovation.
+Welcome Researchers, collaborators and Scholar's to advanced research and innovation projects.
 </p>
 
 <style>
@@ -61,55 +60,40 @@ Useful links:
    [Watch Video](https://youtu.be/hbKhyzw2QDk)
 
 
-## Projects completed---Arfeen
+## Projects Completed – ARFEEN
 
-1. **Internet of Things (IoT) Based Groundwater Monitoring System**  
-   NED Karachi
+1. **Internet of Things (IoT) Based Groundwater Monitoring System-NED Karachi**  
+   
 
-2. **Analysis of IP Routing Using MPLS Backbone in QualNet Simulator**  
-   Batch 2004
+2. **Analysis of IP Routing Using MPLS Backbone in QualNet Simulator**
 
-3. **Face Recognition Using PCA**  
-   Batch 2005
+3. **Face Recognition Using Principal Component Analysis (PCA)**
 
-4. **Orthogonal Frequency Division Multiplexing Techniques (OFDMA)**  
-   Batch 2005
+4. **Orthogonal Frequency Division Multiplexing Techniques (OFDMA)**
 
-5. **Monitor and Control of Greenhouse Environment**  
-   Batch 2006
+5. **Monitor and Control of Greenhouse Environment**
 
-6. **Car Controlling via Bluetooth – Connect 2 Car**  
-   Batch 2006
+6. **Car Controlling via Bluetooth – Connect 2 Car**
 
-7. **Unmanned Automated Vehicle 3D Helicopter**  
-   Batch 2005
+7. **Unmanned Automated Vehicle 3D Helicopter**
 
-8. **Gesture-Oriented Mouse Control – Sense ME**  
-   Batch 2005
+8. **Gesture-Oriented Mouse Control – Sense ME**
 
-9. **Microcontroller-Based Ultrasonic Detector**  
-   Batch 2005
+9. **Microcontroller-Based Ultrasonic Detector**
 
-10. **Object Tracking with Intelligent Camera Control**  
-    Batch 2007
+10. **Object Tracking with Intelligent Camera Control**
 
-11. **Radio Network Planning for GSM**  
-    Batch 2007
+11. **Radio Network Planning for GSM**
 
-12. **Touch Screen and Zigbee-Based Wireless Communication**  
-    Batch 2007
+12. **Touch Screen and Zigbee-Based Wireless Communication**
 
-13. **GSM-Based Central Control Room Appliances**  
-    Batch 2007
+13. **GSM-Based Central Control Room Appliances**
 
-14. **Enhancing Three-Phase Induction Motor Performance with Soft Ramp Control**  
-    Batch 2019
+14. **Enhancing Three-Phase Induction Motor Performance with Soft Ramp Control**
 
-15. **Vehicle Accident Reporting Using GSM and GPS**  
-    Batch 2020
+15. **Vehicle Accident Reporting Using GSM and GPS**
 
-16. **IoT-Based Smart Energy Meter Using Streamlit Dashboard**  
-    Batch 2021
+16. **IoT-Based Smart Energy Meter Using Streamlit Dashboard**
 
 17. **GSM-Based Water Level Monitoring and Control Using Arduino, SIM900A, and Ultrasonic Sensor**
 
@@ -118,3 +102,8 @@ Useful links:
     - Applying the same filter design methodology to a synthetic composite signal and implementing it on a Texas Instruments TMS320C6713 DSP using Code Composer Studio 5
 
 19. **User Identification Using Web Interaction Behavior**
+
+    Developed a machine learning system in MATLAB to identify users based on web interaction behavioral patterns including clicks, scroll depth, dwell time, and session dynamics.
+
+    - Designed and benchmarked three machine learning classifiers: Support Vector Machine (SVM) with RBF Kernel, Random Forest, and K-Nearest Neighbors (KNN) across two independent datasets.
+    - Implemented Explainable Artificial Intelligence (XAI) techniques including LIME, Feature Importance Analysis, and Partial Dependence Plots (PDP) to interpret model decisions and improve transparency.
