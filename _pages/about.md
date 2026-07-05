@@ -6,15 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Zeeshan Ahmad Arfeen is an Assistant Professor in the Department of Electrical Power Engineering at The Islamia University of Bahawalpur, Pakistan. He obtained his doctorate from Universiti Teknologi Malaysia (UTM), Johor Bahru, Malaysia.
-
-He is a Senior Member of IEEE (USA) and a member of the IEEE Power and Energy Society (PES), IEEE Pakistan, and The Institution of Engineers Pakistan (IEP). He is also a life member of the Pakistan Engineering Council (PEC).
-
-Dr. Arfeen is the author and co-author of more than 60 high-impact international journal publications, along with several conference papers and book chapters. He has served as a reviewer for more than 300 papers in ISI-indexed, Scopus-indexed, and conference proceedings journals.
-
-He was awarded a partial doctoral scholarship from the Higher Education Commission (HEC), Pakistan. He also received an International Doctoral Fellowship (IDF) and a UTM Young Scholarship Grant from Universiti Teknologi Malaysia. One of his research papers was among the most downloaded in 2019 and 2020 and ranked among the top 10 most cited papers in 2020 by Wiley.
-
-He is frequently invited as a guest speaker at international conferences. His research focuses on modern power and energy systems, with particular emphasis on:
+**Zeeshan Ahmad Arfeen** is an Assistant Professor in the Department of Electrical Power Engineering at The Islamia University of Bahawalpur (IUB), Pakistan. He received his Ph.D. from Universiti Teknologi Malaysia (UTM), Skudai, Johor Bahru, Malaysia. He is a Senior Member of IEEE (USA), a member of the IEEE Power & Energy Society (PES), IEEE Pakistan Section, and The Institution of Engineers Pakistan (IEP), and a Life Member of the Pakistan Engineering Council (PEC). Dr. Arfeen is the author/co-author of more than 90 high-impact international journal articles, conference papers, and book chapters, and serves as a reviewer for over 300 ISI-indexed, Scopus-indexed, and conference proceeding manuscripts. He was awarded a Partial Doctoral Scholarship from the Higher Education Commission (HEC), Pakistan, as well as the International Doctoral Fellowship (IDF) and the UTM Young Researcher Scholarship from Universiti Teknologi Malaysia (UTM). Three of his publications were recognized among Wiley's most downloaded papers and Top 10 most cited papers in 2020. He has been invited as a keynote and guest speaker at numerous prestigious international conferences. His research interests include artificial intelligence, machine learning, electrical transportation, microgrids, smart grids, energy management systems, renewable energy, power electronics, embedded systems, robotics, the Internet of Things (IoT), and sustainable energy technologies.
 
 - Electrical Transportation  
 - Microgrids  
